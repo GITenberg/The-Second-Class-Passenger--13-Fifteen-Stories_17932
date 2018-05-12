@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7708
     wikipedia: http://en.wikipedia.org/wiki/Perceval_Gibbon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17932#The-Second-Class-Passenger--13-Fifteen-Stories
 gutenberg_issued: '2006-03-06'
 gutenberg_type: Text
 identifiers:
