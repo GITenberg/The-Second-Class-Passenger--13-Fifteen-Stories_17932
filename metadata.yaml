@@ -1,0 +1,32 @@
+_repo: The-Second-Class-Passenger--13-Fifteen-Stories_17932
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gibbon, Perceval
+    birthdate: 1879
+    deathdate: 1926
+    gutenberg_agent_id: '7708'
+    url: http://www.gutenberg.org/2009/agents/7708
+    wikipedia: http://en.wikipedia.org/wiki/Perceval_Gibbon
+description: ''
+gutenberg_issued: '2006-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17932'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Short stories'
+- !lcsh 'Fiction'
+tableOfContents: The Second-Class Passenger -- The Sense of Climax -- The Trader of
+  Last Notch -- The Murderer -- The Victim -- Between the Lights -- The Master --
+  "Parisienne" -- Lola -- The Poor in Heart -- The Man Who Knew -- The Hidden Way
+  -- The Strange Patient -- The Captain's Arm -- The Widower.
+title: 'The Second Class Passenger: Fifteen Stories'
+url: http://www.gutenberg.org/ebooks/17932
